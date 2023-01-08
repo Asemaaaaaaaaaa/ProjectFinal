@@ -81,6 +81,7 @@ const App = () => {
           />
         </div>
         <span className={`dnd-info`}>Drag and drop to reorder list</span>
+        <span className={`dnd-info`}>It's page create for final exam React with Asema</span>
       </div>
     </div>
   );
